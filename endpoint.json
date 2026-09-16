@@ -1,6 +1,6 @@
 {
-    "online":  true,
-    "api":  "https://preceding-pure-knock-contemporary.trycloudflare.com",
-    "updated":  "2026-09-16T15:07:33Z",
-    "note":  "복원 서버가 켜져 있습니다."
+    "online":  false,
+    "api":  "",
+    "updated":  "2026-09-16T15:20:28Z",
+    "note":  "복원 서버가 꺼져 있어 접수를 받지 않습니다."
 }
