@@ -1,6 +1,6 @@
 {
-    "online":  false,
-    "api":  "",
-    "updated":  "2026-09-30T13:13:37Z",
-    "note":  "복원 서버가 꺼져 있어 접수를 받지 않습니다."
+    "online":  true,
+    "api":  "https://honolulu-wed-caused-bone.trycloudflare.com",
+    "updated":  "2026-10-01T12:44:43Z",
+    "note":  "복원 서버가 켜져 있습니다."
 }
